@@ -21,6 +21,9 @@ YJGS8P"Y888P"Y888P"Y888P"Y8888P
 
 Dinghua Zeng
 
+####################################################################
+##### Introduction #################################################
+
 Here have the application and the max patch, application only work with windows but can't be edit. Max project can be edit and develop in future. Better connect your controller before open the project, make sure that your controller is available with Max. Open audio engine and double press start to start. If there are no sound please make sure you press the LT and RT button, the volume controll and EQ maybe initialised at 0; otherwise please check the fader and volume number are having signal, the sample may not been load in the tool, drag and load them again. Use max project version to edit and load your 3D models, texture, and colour. Have fun.
 
 ####################################################################
